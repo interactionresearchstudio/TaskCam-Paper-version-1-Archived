@@ -1,6 +1,6 @@
-# ProbeTools TaskCam Prototype 
+# TaskCam Paper Version 1 Archived
 
-These STL files can be used for 3D printing. [Click here](https://a360.co/2qtXSVf) for editable Fusion 360 files.
+These PDF files can be used as laser cutting templates. 
 
 ## Terms of Use
  
